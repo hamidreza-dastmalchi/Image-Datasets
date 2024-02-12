@@ -65,6 +65,8 @@ ImageNet is one of the most influential image datasets in the field of deep lear
 The LAION-5B dataset is indeed a dataset, and it represents a significant resource in the field of machine learning, particularly for tasks related to image and text understanding, generation, and other AI-driven applications. LAION stands for "Large-scale Artificial Intelligence Open Network," and the "5B" denotes the scale of the dataset, which contains approximately 5 billion image-text pairs. This massive dataset is designed to facilitate research and development in machine learning models, especially those focusing on generative tasks like text-to-image generation.
 - [LAION-5G Official Website](https://laion.ai/blog/laion-5b/)
 
+---
+
 ## Additional Resources
 
 For those interested in exploring more datasets or diving deeper into specific types of deep learning tasks, consider visiting the following resources:
