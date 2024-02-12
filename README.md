@@ -8,7 +8,7 @@ Welcome to our collection of information on various image datasets widely used i
 - [COCO (Common Objects in Context)](#coco-common-objects-in-context)
 - [Flickr](#flickr)
 - [ImageNet](#imagenet)
-- [LAION-5G (#laion-5G)
+- [LAION-5G] (#laion)
 - [Additional Resources](#additional-resources)
 
 ---
