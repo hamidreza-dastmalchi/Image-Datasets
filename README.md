@@ -9,6 +9,7 @@ Welcome to our collection of information on various image datasets widely used i
 - [Flickr](#flickr)
 - [ImageNet](#imagenet)
 - [LAION-5G](#laion-5G)
+- [PASCAL Visual Object Classes (VOC)](http://host.robots.ox.ac.uk/pascal/VOC/)
 - [Additional Resources](#additional-resources)
 
 ---
@@ -64,6 +65,14 @@ ImageNet is one of the most influential image datasets in the field of deep lear
 ## LAION-5G
 The LAION-5B dataset is indeed a dataset, and it represents a significant resource in the field of machine learning, particularly for tasks related to image and text understanding, generation, and other AI-driven applications. LAION stands for "Large-scale Artificial Intelligence Open Network," and the "5B" denotes the scale of the dataset, which contains approximately 5 billion image-text pairs. This massive dataset is designed to facilitate research and development in machine learning models, especially those focusing on generative tasks like text-to-image generation.
 - [LAION-5G Official Website](https://laion.ai/blog/laion-5b/)
+
+---
+
+## PASCAL Visual Object Classes (VOC)
+
+The PASCAL Visual Object Classes (VOC) dataset is a key resource for object detection, image classification, and segmentation in computer vision. Developed under the PASCAL EU Network of Excellence, it features richly annotated real-world images across multiple object categories, such as animals, vehicles, and household items. The dataset supports various challenges and has been pivotal for benchmarking the performance of computer vision models. Despite newer datasets like ImageNet and COCO, PASCAL VOC's detailed annotations and diverse conditions continue to make it valuable for research and algorithm development.
+
+
 
 ---
 
