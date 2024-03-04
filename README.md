@@ -11,6 +11,7 @@ Welcome to our collection of information on various image datasets widely used i
 - [LAION-5G](#laion-5G)
 - [PASCAL Visual Object Classes (VOC)](http://host.robots.ox.ac.uk/pascal/VOC/)
 - [FGVC-Aircraft Dataset](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/)
+- [Flower102 Dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
 - [Additional Resources](#additional-resources)
 
 ---
@@ -79,7 +80,11 @@ The PASCAL Visual Object Classes (VOC) dataset is a key resource for object dete
 
 The FGVC-Aircraft dataset is designed for the fine-grained visual categorization of aircraft, focusing on identifying specific models and types from images. It includes a diverse range of aircraft images annotated with detailed labels, making it challenging due to the subtle differences between categories. This dataset is used for developing and benchmarking algorithms capable of recognizing fine visual details, with applications in areas such as air traffic management, defense, and aviation education.
 
+---
 
+## Flower102 Dataset
+
+The Flower102 (Oxford 102 Flowers) dataset is a benchmark for fine-grained visual categorization, consisting of 8,189 images across 102 flower species common in the UK. It's used for developing and evaluating image classification algorithms, with applications in agriculture, botany, and commercial plant identification apps. The dataset poses a challenge due to the subtle differences between species and significant variation within classes.
 
 ---
 
