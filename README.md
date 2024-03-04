@@ -11,7 +11,9 @@ Welcome to our collection of information on various image datasets widely used i
 - [LAION-5G](#laion-5G)
 - [PASCAL Visual Object Classes (VOC)](http://host.robots.ox.ac.uk/pascal/VOC/)
 - [FGVC-Aircraft Dataset](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/)
-- [Flower102 Dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
+- [Flower-102 Dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
+- [Food-101 Dataset](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/)
+- [Oxford-IIIT Pet Dataset](https://www.kaggle.com/datasets/tanlikesmath/the-oxfordiiit-pet-dataset)
 - [Additional Resources](#additional-resources)
 
 ---
@@ -82,9 +84,24 @@ The FGVC-Aircraft dataset is designed for the fine-grained visual categorization
 
 ---
 
-## Flower102 Dataset
+## Flower-102 Dataset
 
 The Flower102 (Oxford 102 Flowers) dataset is a benchmark for fine-grained visual categorization, consisting of 8,189 images across 102 flower species common in the UK. It's used for developing and evaluating image classification algorithms, with applications in agriculture, botany, and commercial plant identification apps. The dataset poses a challenge due to the subtle differences between species and significant variation within classes.
+
+---
+
+## Food-101 Dataset
+
+
+The Food-101 dataset features 101,000 images across 101 food categories, designed for fine-grained image classification tasks in the culinary domain. It presents a challenge due to its large scale, diversity of dishes, and the high variability within and similarity across categories. This dataset supports applications in recipe recommendation, nutritional analysis, and culinary education by facilitating the development of advanced food recognition algorithms.
+
+
+---
+
+## Oxford-IIIT Pet Dataset
+
+The Oxford-IIIT Pet Dataset is a collection of 7,349 images across 37 dog and cat breeds, designed for fine-grained breed classification. It includes breeds like "Abyssinian," "American Bulldog," and "American Pit Bull Terrier," with about 200 images per breed. The dataset challenges include variations in pose, lighting, and intra-breed diversity, making it a valuable resource for developing advanced computer vision algorithms for tasks such as semantic segmentation, object detection, and breed classification.
+
 
 ---
 
