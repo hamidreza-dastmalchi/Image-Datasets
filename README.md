@@ -14,6 +14,7 @@ Welcome to our collection of information on various image datasets widely used i
 - [Flower-102 Dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
 - [Food-101 Dataset](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/)
 - [Oxford-IIIT Pet Dataset](https://www.kaggle.com/datasets/tanlikesmath/the-oxfordiiit-pet-dataset)
+- [PASCAL VOC][http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html]
 - [Additional Resources](#additional-resources)
 
 ---
@@ -102,6 +103,11 @@ The Food-101 dataset features 101,000 images across 101 food categories, designe
 
 The Oxford-IIIT Pet Dataset is a collection of 7,349 images across 37 dog and cat breeds, designed for fine-grained breed classification. It includes breeds like "Abyssinian," "American Bulldog," and "American Pit Bull Terrier," with about 200 images per breed. The dataset challenges include variations in pose, lighting, and intra-breed diversity, making it a valuable resource for developing advanced computer vision algorithms for tasks such as semantic segmentation, object detection, and breed classification.
 
+
+---
+
+## PASCAL VOC
+The PASCAL VOC dataset is a benchmark in computer vision for tasks like object detection, classification, and segmentation. It was part of an annual competition from 2005 to 2012, aimed at advancing the development of algorithms for recognizing objects in images. The dataset features diverse object categories across a range of everyday scenes, annotated with class labels, bounding boxes, and segmentation masks. The PASCAL VOC dataset, particularly its 2012 version, one of the most referenced editions, contains over 11,000 images spanning 20 object categories. These categories include animals (e.g., birds, cats, dogs), vehicles (e.g., cars, bikes), household items (e.g., bottle, chair), and people, among others. The dataset provides annotations for various tasks such as classification, object detection, and segmentation, making it a comprehensive resource for evaluating computer vision models across multiple challenges
 
 ---
 
