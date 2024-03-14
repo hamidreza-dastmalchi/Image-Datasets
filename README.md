@@ -14,7 +14,7 @@ Welcome to our collection of information on various image datasets widely used i
 - [Flower-102 Dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
 - [Food-101 Dataset](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/)
 - [Oxford-IIIT Pet Dataset](https://www.kaggle.com/datasets/tanlikesmath/the-oxfordiiit-pet-dataset)
-- [PASCAL VOC][http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html]
+- [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html)
 - [Additional Resources](#additional-resources)
 
 ---
